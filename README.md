@@ -1,1 +1,1 @@
-# social-links-updater
+# social-link-up
